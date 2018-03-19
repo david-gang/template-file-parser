@@ -7,6 +7,6 @@ setup(name='template-file-parser',
       author='David Gang',
       author_email='michaelgang@gmail.com',
       license='MIT',
-      packages=['template-file-parser'],
+      packages=['template_file_parser'],
       python_requires=">=3.4",
       zip_safe=False)
