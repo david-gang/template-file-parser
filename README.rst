@@ -1,6 +1,10 @@
 template-file-parser
 ====================
 
+.. image:: https://api.codacy.com/project/badge/Grade/f3fb8c7e10fa444581604d43faf90b1d
+   :alt: Codacy Badge
+   :target: https://app.codacy.com/app/michaelgang/template-file-parser?utm_source=github.com&utm_medium=referral&utm_content=david-gang/template-file-parser&utm_campaign=badger
+
 |Build Status|
 
 .. |Build Status| image:: https://travis-ci.org/david-gang/template-file-parser.svg?branch=master
