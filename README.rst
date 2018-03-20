@@ -36,7 +36,7 @@ These are the parameters:
 
 Disclaimer
 ----------
-
+This library is only supported for python >= 3.4 as it fits my needs, and i don't want to mees up with the encoding differences between python 2 and 3.
 This software is beta and breaking changes can occur between versions
 
 
