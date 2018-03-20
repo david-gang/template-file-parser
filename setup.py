@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='template-file-parser',
-    version='0.11',
+    version='0.12',
     description='Tiny wrapper over string templates which works with files',
     url='https://github.com/david-gang/template-file-parser',
     author='David Gang',
