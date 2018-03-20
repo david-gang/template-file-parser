@@ -7,5 +7,5 @@ python:
 install:
   - pip install coverage codacy-coverage
 script:
-  - coverage run -munittest xml
+  - coverage run -m unittest xml
   - python-codacy-coverage -r coverage.xml
