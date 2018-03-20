@@ -28,7 +28,9 @@ Usage
     parse_file(in_file, out_file, variables, safe=False)
 
 These are the parameters:
+
 .. hlist::
+
     * in_file: The input file
     * out_file: The output file
     * variables : a dictionary where the keys are the variables in the template and the values are the values needed to substitute
