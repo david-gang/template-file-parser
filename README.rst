@@ -29,13 +29,10 @@ Usage
 
 These are the parameters:
 
-.. hlist::
-   :columns: 1
-
-    * in_file: The input file
-    * out_file: The output file
-    * variables : a dictionary where the keys are the variables in the template and the values are the values needed to substitute
-    * safe: if True then then not all variables in the template file needs to be declared. If False, all parameters needs to be declared. For more information read `here <https://docs.python.org/3.6/library/string.html#template-strings>`_
+- in_file: The input file
+- out_file: The output file
+- variables : a dictionary where the keys are the variables in the template and the values are the values needed to substitute
+- safe: if True then then not all variables in the template file needs to be declared. If False, all parameters needs to be declared. For more information read `here <https://docs.python.org/3.6/library/string.html#template-strings>`_
 
 Disclaimer
 ----------
