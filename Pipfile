@@ -9,6 +9,7 @@ verify_ssl = true
 
 twine = "*"
 coverage = "*"
+yapf = "*"
 
 
 [requires]

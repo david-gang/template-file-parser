@@ -10,3 +10,4 @@
 .history/
 .coverage
 coverage.xml
+.vscode
