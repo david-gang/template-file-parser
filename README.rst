@@ -4,8 +4,11 @@ template-file-parser
 .. image:: https://api.codacy.com/project/badge/Grade/f3fb8c7e10fa444581604d43faf90b1d
    :alt: Codacy Badge
    :target: https://app.codacy.com/app/michaelgang/template-file-parser?utm_source=github.com&utm_medium=referral&utm_content=david-gang/template-file-parser&utm_campaign=badger
-   
-   [![Codacy Badge](https://api.codacy.com/project/badge/Coverage/bbffba1a08b842d2a3c94a4218efb8ce)](https://www.codacy.com/app/michaelgang/template-file-parser?utm_source=github.com&utm_medium=referral&utm_content=david-gang/template-file-parser&utm_campaign=Badge_Coverage)
+
+
+.. image:: https://api.codacy.com/project/badge/Coverage/bbffba1a08b842d2a3c94a4218efb8ce
+   :alt: Codacy Coverage
+   :target: https://www.codacy.com/app/michaelgang/template-file-parser?utm_source=github.com&utm_medium=referral&utm_content=david-gang/template-file-parser&utm_campaign=Badge_Coverage
 
 |Build Status|
 
