@@ -30,6 +30,7 @@ Usage
 These are the parameters:
 
 .. hlist::
+   :columns: 1
 
     * in_file: The input file
     * out_file: The output file
