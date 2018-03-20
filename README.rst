@@ -21,7 +21,9 @@ pip install template-file-parser
 
 Usage
 -----
+
 ::
+
     from template_file_parser import parse_file
     parse_file(in_file, out_file, variables, safe=False)
 
